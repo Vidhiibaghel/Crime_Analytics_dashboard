@@ -35,6 +35,20 @@ This dashboard helps identify crime patterns, monitor case statuses, and visuali
 - Slicer filters (crime type, status, etc.)
 - Clean and customizable color theme
 
+#### 📊 Crime Analytics Dashboard – Preview
+
+### 🔹 Dashboard Overview
+![Dashboard Overview](Dashboard_View.png)
+
+### 🔹 Map Visual
+![Map View](Map_View.png)
+![Map View](Heatmap_View.png)
+
+### 🔹 Cards
+![Cards View](Cards_View.png)
+![Cards View](Resolution_Rate.png)
+
+
 
 ## 🧠 Advanced Features
 
