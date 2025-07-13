@@ -81,4 +81,4 @@ _Add screenshots of your dashboard here (optional)_
 ## 📬 Contact
 
 **Vidhi Baghel**  
-LinkedIn / GitHub / Email (Add your links if you’d like)
+  https://github.com/Vidhiibaghel/ / vidhibaghel406@gmail.com 
